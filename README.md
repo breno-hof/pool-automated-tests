@@ -1,6 +1,5 @@
-# pool-automated-tests
+# Automated Tests for Pool API
 A repository for automated acceptance tests
-
 
 ## Prerequisites
 
@@ -20,4 +19,10 @@ npm -v
 
 ```sh
 npm install
+```
+
+4. Run tests.
+
+```sh
+npm test
 ```
